@@ -1,0 +1,13 @@
+{
+  "name": "venue-booking-management-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Secure venue operations and booking management MVP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "NODE_ENV=development node --watch server.js",
+    "check": "node --check server.js && node --check public/app.js"
+  },
+  "engines": {"node": ">=20"}
+}

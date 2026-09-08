@@ -1,1 +1,9 @@
-{"name":"VenueOS","short_name":"VenueOS","start_url":"./","display":"standalone","background_color":"#f4f1e8","theme_color":"#183a2c"}
+{
+  "name": "TempahFlow",
+  "short_name": "TempahFlow",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7faf8",
+  "theme_color": "#0b6b57",
+  "icons": []
+}
